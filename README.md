@@ -1,7 +1,11 @@
-# <p align="center"><code>sxm~sxm</code></p>
+<div align="center">
 
-<p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com/?lines=System.out.println(%22sxm~sxm%22);;Développeur+Web+Front-End+🚀;Building+cool+stuff+with+code+⚡&font=Fira+Code&size=22&subTitle=&center=true&width=500&height=50&color=00F5FF">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=System.out.println(%22sxm~sxm%22);;Développeur+Web+Front-End+🚀;Building+cool+stuff+with+code+⚡&font=Fira+Code&size=22&subTitle=&center=true&width=500&height=50&color=00F5FF" />
-  </a>
-</p>
+  # ⚡ `sxm~sxm` ⚡
+
+  <p>
+    <img src="https://img.shields.io/badge/USER-sxm~sxm-111111?style=for-the-badge&logo=github&logoColor=white&colorA=000000&colorB=7B2CBF" />
+    <img src="https://img.shields.io/badge/ROLE-Front--End_Dev-111111?style=for-the-badge&logo=codefactor&logoColor=white&colorA=000000&colorB=00F5FF" />
+  </p>
+
+  ---
+</div>
