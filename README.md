@@ -1,3 +1,7 @@
+# <p align="center"><code>sxm~sxm</code></p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,25&height=220&section=header&text=sxm~sxm&fontSize=70&fontColor=ffffff&animation=twinkling" width="100%" />
+  <a href="https://readme-typing-svg.herokuapp.com/?lines=System.out.println(%22sxm~sxm%22);;Développeur+Web+Front-End+🚀;Building+cool+stuff+with+code+⚡&font=Fira+Code&size=22&subTitle=&center=true&width=500&height=50&color=00F5FF">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=System.out.println(%22sxm~sxm%22);;Développeur+Web+Front-End+🚀;Building+cool+stuff+with+code+⚡&font=Fira+Code&size=22&subTitle=&center=true&width=500&height=50&color=00F5FF" />
+  </a>
 </p>
